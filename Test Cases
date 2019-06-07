@@ -1,0 +1,16 @@
+Two Black Box test cases are proposed:
+
+Succesfull isPrime  | Error Thrown
+********************|**********************
+Valid Prime         | Negative Number
+Non-Prime           | Full Character String
+Zero                | Partial Characters In String
+                    | Empty String
+       
+       
+Succesfull primesStored | Error Thrown
+************************|*******************
+Content In Cache        | Any Arguments Given
+Empty Cache             |
+
+All tests passed when applied to the API.
